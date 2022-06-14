@@ -87,7 +87,7 @@ export default function MovieDetails({route,navigation})
                 </View>
                 <View style={styles.detailsContainer}>
                 <Ionicons name={"heart-outline"} size={25} color={"gold"} />
-                <Text style={{color:Constants.textColor}}>Like</Text>
+                <Text style={{color:Constants.textColor}}>Lik</Text>
                 </View>
                 <View style={styles.detailsContainer}>
                 <Ionicons name={"star-outline"} size={25} color={"gold"} />
